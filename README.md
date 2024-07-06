@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Rizwan-Ghouri/Rizwan-Ghouri/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
 <h3 align="center">I'm A passionate frontend developer</h3>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s" alt="">
