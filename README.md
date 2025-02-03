@@ -3,7 +3,9 @@
 <h1 align="center">Assalam-u-alikum 👋, I'm Muhammad Rizwan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
-<img align="right" width="50%" height="400px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coding Animation" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coding Animation" style="max-width: 100%; height: auto;" />
+</div>
 
 <br>
 
@@ -34,8 +36,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwan-ghouri&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rizwan-ghouri&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan-ghouri&" alt="GitHub Streak" /></p>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwan-ghouri&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwan-ghouri&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan-ghouri&" alt="GitHub Streak" style="max-width: 100%;" />
+</div>
