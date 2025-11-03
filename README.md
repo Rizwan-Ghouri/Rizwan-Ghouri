@@ -1,5 +1,5 @@
 <!--[logo](https://github.com/Rizwan-Ghouri/Rizwan-Ghouri/blob/main/banner.gif)-->
-![logo](https://chatgpt.com/backend-api/estuary/content?id=file_000000002f4072068e55938213fbc7d8&ts=489494&p=fs&cid=1&sig=8394a35a3e034d819803ec9b7ea0db78a24762ede60a4fb19ac11ebe5301373e&v=0)
+![logo](/Appimg.png)
 
 <h1 align="center">Assalam-u-alikum 👋, I'm Muhammad Rizwan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
