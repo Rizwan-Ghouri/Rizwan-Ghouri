@@ -1,5 +1,5 @@
 <!--[logo](https://github.com/Rizwan-Ghouri/Rizwan-Ghouri/blob/main/banner.gif)-->
-![logo](<img width="1536" height="1024" alt="ChatGPT Image Nov 3, 2025, 02_38_48 PM" src="https://github.com/user-attachments/assets/47925c8d-ccba-4f9d-a071-cb522b531f75" />)
+![logo](<img width="1536" height="1024" alt="ChatGPT Image Nov 3, 2025, 02_38_48 PM" src="https://github.com/user-attachments/assets/47925c8d-ccba-4f9d-a071-cb522b531f75"/>)
 
 <h1 align="center">Assalam-u-alikum 👋, I'm Muhammad Rizwan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
