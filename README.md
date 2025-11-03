@@ -60,8 +60,8 @@
   </a>
 </p> -->
 
-<div style="display: flex; gap: flex-wrap: wrap; 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwan-ghouri&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwan-ghouri&show_icons=true&locale=en" alt="GitHub Stats" style="width: 50%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan-ghouri&" alt="GitHub Streak" style="width: 50%;" />
+<div style="display: flex;  20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwan-ghouri&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; length: 50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwan-ghouri&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; length: 50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan-ghouri&" alt="GitHub Streak" style="width: 100%; length: 50%" />
 </div>
