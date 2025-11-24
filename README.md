@@ -11,10 +11,6 @@
 <br>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rizwan-ghouri&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan-ghouri" /> 
 </p>
